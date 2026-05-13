@@ -18,7 +18,6 @@ This repository contains reproducible R scripts and example figures
 - ggplot2
 - dplyr
 - data.table
-- qqman
 - UpSetR
 
 ## Author
