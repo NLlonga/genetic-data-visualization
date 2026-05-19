@@ -5,6 +5,8 @@ Plots for statistical genetics and bioinformatics
 ## Included visualizations
 
 - Manhattan plots
+  ![Manhattan plot](figures/manhattan_plot_example.png)
+
 - QQ plots
 - Forest plots
 
